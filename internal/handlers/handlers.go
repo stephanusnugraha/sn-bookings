@@ -3,9 +3,9 @@ package handlers
 import (
 	"encoding/json"
 	"fmt"
-	"github.com/stephanusnugraha/sn-bookings/pkg/config"
-	"github.com/stephanusnugraha/sn-bookings/pkg/models"
-	"github.com/stephanusnugraha/sn-bookings/pkg/render"
+	"github.com/stephanusnugraha/sn-bookings/internal/config"
+	"github.com/stephanusnugraha/sn-bookings/internal/models"
+	"github.com/stephanusnugraha/sn-bookings/internal/render"
 	"log"
 	"net/http"
 )

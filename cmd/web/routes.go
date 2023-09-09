@@ -3,8 +3,8 @@ package main
 import (
 	"github.com/go-chi/chi"
 	"github.com/go-chi/chi/middleware"
-	"github.com/stephanusnugraha/sn-bookings/pkg/config"
-	"github.com/stephanusnugraha/sn-bookings/pkg/handlers"
+	"github.com/stephanusnugraha/sn-bookings/internal/config"
+	"github.com/stephanusnugraha/sn-bookings/internal/handlers"
 	"net/http"
 )
 
